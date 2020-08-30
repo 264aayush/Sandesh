@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "601937119641",
+    "firebase_url": "https://peri-cf92b.firebaseio.com",
+    "project_id": "peri-cf92b",
+    "storage_bucket": "peri-cf92b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601937119641:android:f5b14f8b76b8adf615ab08",
+        "android_client_info": {
+          "package_name": "com.singh.sandesh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601937119641-18p3pbuevtj2sb6runluscdmgpurfgbo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLOZ5O-9MeHDAPNKpTwZ2CEYrnJK73-7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601937119641-18p3pbuevtj2sb6runluscdmgpurfgbo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

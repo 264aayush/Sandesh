@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sandesh</string>
+    <string name="facebook_app_id">291387128702039</string>
+    <string name="facebook_application_id">291387128702039</string>
+    <string name="fb_login_protocol_scheme">fb291387128702039</string>
+
+
+</resources>
